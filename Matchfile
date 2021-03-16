@@ -1,5 +1,0 @@
-git_url('git@github.com:QultureRocks/certificates-mobile.git')
-storage_mode('git')
-type('development')
-app_identifier(['com.qulturerocks.app', 'com.qulturerocks.app.OneSignalNotificationServiceExtension'])
-username('kiko@qulturerocks.com')
